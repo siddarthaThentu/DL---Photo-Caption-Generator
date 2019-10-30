@@ -1,2 +1,2 @@
 # Deep Learning Photo Caption Generator
-A neural network to generate captions for images
+A neural network to generate captions for images using LSTM
